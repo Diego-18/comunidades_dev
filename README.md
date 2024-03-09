@@ -78,5 +78,20 @@ Listado de comunidades en diferentes plataformas
 -   [Codely TV](https://www.youtube.com/@CodelyTV) - ES
 -   [Nate Gentile](https://www.youtube.com/@NateGentile7) - ES
 
+### ![Discord](https://img.shields.io/badge/Discord-%235865F2.svg?style=for-the-badge&logo=discord&logoColor=white)
+
+- [Midudev](https://discord.gg/midudev)
+- [bluuweb](https://discord.gg/ZmkUZXdx)
+- [Mouredev](https://discord.gg/mouredev)
+- [Miriamgonp](https://discord.gg/Um6tnAKb)
+- [Frontend Café](https://discord.gg/FCQzbD8a)
+- [Pinta Apis](https://discord.gg/rNpcxUgE)
+- [Dincy](https://discord.gg/dincy-770339254101344256)
+- [Arelis Reyes](https://discord.gg/U5g9dfqE3R)
+- [No me da la vida](https://discord.gg/DEJCndtg)
+- [DevTalles](https://discord.gg/v5sDuX64)
+- [Fazt Community](https://discord.gg/3NjwpreW)
+  
+
 
 
