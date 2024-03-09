@@ -60,6 +60,8 @@ Listado de comunidades en diferentes plataformas
 -   [Codealo](https://www.youtube.com/@CodealoDev) - ES
 -   [Leonidas Esteban](https://www.youtube.com/@LeonidasEsteban) - ES
 -   [Oscar Barajas](https://www.youtube.com/@gndx) - ES
+-   [Platzi](https://www.youtube.com/@Platzi) - ES
+-   [Codigo Facilito](https://www.youtube.com/@codigofacilito) - ES
 
 #### Ciberseguridad
 
